@@ -25,7 +25,7 @@ body{
 .white{
  
 background-color: white;
-z-index: 100000;
+
 }
 header .navbar {
 height: 70px ;
@@ -35,7 +35,7 @@ right: 0;
 left: 0;
 align-items: center;
 justify-content: center;
-z-index: 1;
+z-index: 999999999;
 }
 header img{
     height: 48px;
@@ -603,5 +603,6 @@ background-size:auto ;
 .fo0ter-bottom .footer-icons a .fab {
   color: #8c8a86;
 }
+
 
     /* end footer main */
