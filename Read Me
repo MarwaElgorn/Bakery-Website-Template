@@ -1,0 +1,25 @@
+# Bakery Website Template
+
+A simple and responsive bakery-themed website built using:
+
+- HTML  
+- CSS  
+- JavaScript
+
+## Features
+
+- Homepage with hero section and welcome message  
+- Product showcase section for featured bakery items  
+- Contact form with basic structure  
+- Responsive layout for mobile and desktop  
+- Clean, organized code structure for easy editing
+
+## Purpose
+
+This project was created to practice front-end development skills  
+It can be reused or adapted for small business websites, especially bakeries
+
+## Live Demo
+
+View the website here:  
+[https://marwaelgorn.github.io/bakery/](https://marwaelgorn.github.io/bakery/)
